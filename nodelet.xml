@@ -1,0 +1,10 @@
+<library path="lib/libdepth_estimator_nodelet">
+    <class name="depth_estimator/DepthEstimatorNodelet"
+      type="depth_estimator::DepthEstimatorNodelet"
+     base_class_type="nodelet::Nodelet">
+    <description>
+        DepthEstimatorNodelet.
+    </description>
+  </class>
+</library>
+
